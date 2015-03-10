@@ -9,11 +9,12 @@ void function1()
 	return;
 }
 
-void function2()
+void function2(int z)
 {
-	int z;
 	if (z==7)
-		return;
+		return 2;
+	else
+		return 1;
 }
 
 int main(int argc, char*args[])
