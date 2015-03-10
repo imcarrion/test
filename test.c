@@ -13,6 +13,7 @@ void function2()
 {
 	int z;
 	if (z==7)
+		return;
 }
 
 int main(int argc, char*args[])
