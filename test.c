@@ -17,6 +17,14 @@ void function2(int z)
 		return 1;
 }
 
+int function3(int z)
+{
+	if (z > 1)
+		return 1;
+	else
+		return 2;
+}
+
 int main(int argc, char*args[])
 {
 	int a;
