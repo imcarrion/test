@@ -9,6 +9,9 @@ void function1()
 	return;
 }
 
+void function2()
+{}
+
 int main(int argc, char*args[])
 {
 	int a;
