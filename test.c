@@ -9,7 +9,7 @@ void function1()
 	return;
 }
 
-void function2(int z)
+int function2(int z)
 {
 	if (z==7)
 		return 2;
