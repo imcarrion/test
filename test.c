@@ -10,7 +10,10 @@ void function1()
 }
 
 void function2()
-{}
+{
+	int z;
+	if (z==7)
+}
 
 int main(int argc, char*args[])
 {
