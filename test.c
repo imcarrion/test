@@ -7,6 +7,7 @@ void function1()
 	for (i=0; i<10; i++)
 		z = i + 5;
 	return;
+	// open the issue01
 }
 
 int function2(int z)
