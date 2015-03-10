@@ -7,4 +7,5 @@ void function1()
 int main(int argc, char*args[])
 {
 	int a;
+	function1(); //bug!!
 }
