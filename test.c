@@ -16,6 +16,9 @@ void function2()
 		return;
 }
 
+int function3()
+{}
+
 int main(int argc, char*args[])
 {
 	int a;
